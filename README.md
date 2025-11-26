@@ -1,4 +1,4 @@
-# -Video-Stabilisation-using-Matrix-Transformation
+# Video-Stabilisation-using-Matrix-Transformation
 
 ## 1.0 INTRODUCTION
 This project focuses on stabilizing videos captured on mobile devices using matrix transformation techniques. Shaky footage caused by hand tremors or device movements is corrected by aligning frames through translation, rotation, and scaling. The system applies linear algebra methods, including affine transformations, optical flow, and least squares optimization, to reduce shakiness and improve video quality. Trajectory smoothing ensures gradual adjustments, preserving the visual coherence of the video.
