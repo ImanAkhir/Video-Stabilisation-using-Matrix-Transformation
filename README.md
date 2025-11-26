@@ -49,5 +49,4 @@ This project is for educational purposes.
 Iman A., Fatin A.K., Fitrah M.R., Zullaikha Z.
 Created as part of Maths for Computing 3 group project.
 
-- Roberto, M. e. et al., Survey on Digital Video Stabilization, ACM CS, 2023
-
+Github link Fitrah M.R.: https://github.com/Fitrah-Humaira
